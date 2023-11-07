@@ -1,5 +1,3 @@
-
-
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">Me conheça melhor. <br> 
@@ -7,13 +5,11 @@ Acesse o meu portifólio: https://www.juniorpinho.tech </p> &nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=juniorpinhodev&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-juniorpinhodev.vercel.app/api/top-langs/?username=juniorpinhodev&show_icons=true&theme=radical&layout=compact" />
+
  </div>
  
  &nbsp;
  &nbsp;
-
-
 
 ## Minhas Skills
 
