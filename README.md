@@ -1,5 +1,5 @@
 &nbsp;&nbsp;&nbsp;
-<h1>Seja muito bem vindo(a)!</h1><br>
+<h1 align="center">Seja muito bem vindo(a)!</h1><br>
 <p align="center">Me conheça melhor. <br> 
 Acesse o meu portifólio: https://www.juniorpinho.tech </p> &nbsp;
 
