@@ -15,7 +15,7 @@ Acesse o meu portifólio: https://www.juniorpinho.tech </p> &nbsp;
 
 
 
-## My Skills
+## Minhas Skills
 
 #### Stacks Principais:
 
