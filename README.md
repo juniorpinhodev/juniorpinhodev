@@ -32,6 +32,7 @@ Acesse o meu portifólio: https://www.juniorpinho.tech </p> &nbsp;
 
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![React Native:](https://img.shields.io/badge/React%20Native-%2300D8FF.svg?style=flat-square)&nbsp;
+[Static Badge](https://img.shields.io/badge/React%20Native?style=flat&logo=React%20Native&logoColor=%230088cc&labelColor=%23000111)
            
 
 ![React Native](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
