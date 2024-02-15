@@ -31,7 +31,12 @@ Acesse o meu portifólio: https://www.juniorpinho.tech </p> &nbsp;
 #### O que estou Estudando no Momento:
 
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![React Native:](https://img.shields.io/badge/React%20Native-%2300D8FF.svg?style=flat-square)&nbsp;
+           
+
 ![React Native](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+
+React Native: img.https://shields.io/badge/React%20Native-%2300D8FF.svg?style=flat-square
 
 #### Databases:
 
