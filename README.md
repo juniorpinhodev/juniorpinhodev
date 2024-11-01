@@ -1,7 +1,7 @@
 &nbsp;&nbsp;&nbsp;
 <h1 align="center">Seja muito bem-vindo!</h1><br>
 <p align="center">Me conheça melhor. <br> 
-Acesse o meu portifólio: https://www.juniorpinho.tech </p> &nbsp;
+Acesse o meu portifólio: https://www.juniorpinho.dev </p> &nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=juniorpinhodev&theme=radical&mode=weekly" />
